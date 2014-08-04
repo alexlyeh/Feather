@@ -1,0 +1,1271 @@
+TLyte
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/Lyte.app/ResourceRules.plist
+cDataModelVersionCompile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte.momd /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld
+cProcessPCH /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch Lyte/Lyte-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte normal armv7
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/icon@2x.png Lyte/icon@2x.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library.png Lyte/Library.png
+cCpResource Lyte/IDMPBLocalizations.bundle build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/picture.png Lyte/picture.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-48.png Lyte/Library-Books-48.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/test.png Lyte/test.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/placeholder.png Lyte/placeholder.png
+cCpResource Lyte/IDMPhotoBrowser.bundle build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle
+cCopyStringsFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings Lyte/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png Lyte/LyteIcon@2x.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add.png Lyte/Add.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-32.png Lyte/Library-Books-32.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/check.png Lyte/check.png
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/camera.png Lyte/camera.png
+cCpResource Lyte/loading.gif build/Debug-iphoneos/Lyte.app/loading.gif
+cCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add-New-32.png Lyte/Add-New-32.png
+cCompileStoryboard /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets
+cProcessInfoPlistFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Info.plist /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist
+cGenerateDSYMFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte
+cProcessProductPackaging /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision
+cTouch /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent
+cCodeSign /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000052D3EC9C0000000000000110
+t1389620380
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000523E204E0000000000000094
+t1379803214
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000523E204E0000000000000096
+t1379803214
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000523E204E000000000000036B
+t1379803214
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052D3EBA200000000000001A0
+t1389620130
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052D3EBA400000000008E4090
+t1389620132
+s9322640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052D3EBA400000000004D63C0
+t1389620132
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052D3EBA70000000000A92BC0
+t1389620135
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052D3EBAC00000000025A5AC0
+t1389620140
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523E231A0000000000000AC9
+t1379803930
+s2761
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add-New-32.png
+c000000005358EA510000000000001064
+t1398336081
+s4196
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add.png
+c000000005358E997000000000001012E
+t1398335895
+s65838
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m
+c00000000535B082C0000000000002127
+t1398474796
+s8487
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m
+c0000000053597D250000000000001B7D
+t1398373669
+s7037
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard
+c00000000535BFFB5000000000000CA3C
+t1398538165
+s51772
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m
+c000000005359A8F100000000000000DB
+t1398384881
+s219
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m
+c000000005356B9E80000000000000F49
+t1398192616
+s3913
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBLocalizations.bundle
+c000000005356B9E80000000000000088
+t1398192616
+s136
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m
+c00000000535C01B1000000000000270F
+t1398538673
+s9999
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.bundle
+c000000005356B9E80000000000000066
+t1398192616
+s102
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m
+c00000000535C020C000000000000C774
+t1398538764
+s51060
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m
+c000000005356B9E800000000000006B9
+t1398192616
+s1721
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m
+c000000005356B9E80000000000000587
+t1398192616
+s1415
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m
+c00000000535C01FE00000000000023BB
+t1398538750
+s9147
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets
+c000000005358F7240000000000000088
+t1398339364
+s136
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-32.png
+c000000005358EA790000000000001064
+t1398336121
+s4196
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-48.png
+c000000005358EB3B0000000000002480
+t1398336315
+s9344
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library.png
+c000000005358E97A000000000001012E
+t1398335866
+s65838
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m
+c00000000535C7D4400000000000017C7
+t1398570308
+s6087
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist
+c000000005355A635000000000000051D
+t1398122037
+s1309
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Prefix.pch
+c0000000053520DD9000000000000017A
+t1397886425
+s378
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld
+c00000000535C7D440000000000000088
+t1398570308
+s136
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m
+c000000005358D6D6000000000000024C
+t1398331094
+s588
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteIcon@2x.png
+c000000005358F8500000000000001A29
+t1398339664
+s6697
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m
+c000000005359AA26000000000000068F
+t1398385190
+s1679
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m
+c00000000535C7B610000000000001C28
+t1398569825
+s7208
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m
+c00000000535C738C00000000000000E4
+t1398567820
+s228
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m
+c00000000535B1A21000000000000129A
+t1398479393
+s4762
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/camera.png
+c000000005351B8B4000000000001012E
+t1397864628
+s65838
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/check.png
+c000000005351BD1F000000000001012E
+t1397865759
+s65838
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/en.lproj/InfoPlist.strings
+c0000000053520DD8000000000000002D
+t1397886424
+s45
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/icon@2x.png
+c00000000535045AD0000000000001573
+t1397769645
+s5491
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/loading.gif
+c00000000535AFBD60000000000001045
+t1398471638
+s4165
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m
+c0000000053520DD90000000000000148
+t1397886425
+s328
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/picture.png
+c000000005351B8D6000000000001012E
+t1397864662
+s65838
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/placeholder.png
+c00000000535B049F00000000000023BD
+t1398473887
+s9149
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/test.png
+c000000005352D7970000000000004D1A
+t1397938071
+s19738
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+t1398570618
+s952
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM
+t2
+s0
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add-New-32.png
+t1398570480
+s138
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add.png
+t1398570480
+s954
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Base.lproj/Main.storyboardc
+t1398570615
+s408
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle
+t1398570466
+s136
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle
+t1398570479
+s102
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Info.plist
+t1398570616
+s1400
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-32.png
+t1398570480
+s467
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-48.png
+t1398570479
+s724
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library.png
+t1398570479
+s2848
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte
+t1398570466
+s265792
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte.momd
+t1398570434
+s170
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png
+t1398570480
+s6827
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/PkgInfo
+t1398570616
+s8
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/ResourceRules.plist
+t1398570425
+s150
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/camera.png
+t1398570480
+s7952
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/check.png
+t1398570480
+s6653
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision
+t1398570618
+s7514
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings
+t1398570479
+s42
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/icon@2x.png
+t1398570479
+s5156
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/loading.gif
+t1398570480
+s4165
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/picture.png
+t1398570479
+s7353
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/placeholder.png
+t1398570480
+s8378
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/test.png
+t1398570480
+s20468
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent
+t1398570619
+s400
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o
+t1398570451
+s110036
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o
+t1398570451
+s79424
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o
+t1398570448
+s8540
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o
+t1398570456
+s57548
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o
+t1398570452
+s41892
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o
+t1398570452
+s238320
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o
+t1398570451
+s50164
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o
+t1398570451
+s48856
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o
+t1398570457
+s75696
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o
+t1398570451
+s82756
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Lyte.LinkFileList
+c00000000535C7DB8000000000000076A
+t1398570424
+s1898
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o
+t1398570457
+s48332
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o
+t1398570457
+s55956
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o
+t1398570457
+s94664
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o
+t1398570456
+s8792
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o
+t1398570456
+s77948
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o
+t1398570457
+s3740
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_dependencies.txt
+t1398570549
+s387
+
+N/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_generated_info.plist
+t1398570549
+s709
+
+N/Users/alexyeh/Library/MobileDevice/Provisioning Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision
+c000000005358B9E80000000000001D5A
+t1398323688
+s7514
+
+N/var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch
+t1398570433
+s86172
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m
+r0
+
+CBuild AST from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies309cb738b50cb941^de76f938b50cb941^---0#1#1#--18"Check dependencies36"6C537552-4A52-4EDE-AF03-10F21AE386BE-
+
+CCodeSign /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+s420263419.047810
+e420263425.018175
+r1
+xCodeSign
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"CodeSign build/Debug-iphoneos/Lyte.app38"CodeSign build/Debug-iphoneos/Lyte.appfd6c0cfbb50cb941^04a90401b60cb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/0000000000000000^920"CodeSign build/Debug-iphoneos/Lyte.app    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Chei Yeh (AJ8EJYVR64)" and provisioning profile "iOS Team Provisioning Profile: *" (3B7AFE26-485C-4270-8A8D-45A897A0E0E0)    codesign --force --sign 1A240470D3E61CDC85E93CBBC1446268C9EEEC1E --resource-rules=/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/ResourceRules.plist --entitlements /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app36"A02B7781-4946-4B0E-AF82-485E637270D1-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileAssetCatalog /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets
+s420263280.210541
+e420263350.619502
+r1
+xCompileAssetCatalog
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/LyteIcon@2x-2.png is 120x120 but should be 58x58.
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets:./AppIcon.appiconset/[iphone][40x40][2x]: warning: AppIcon.appiconset/LyteIcon@2x.png is 120x120 but should be 80x80.
+o/* com.apple.actool.compilation-results */
+o/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/AppIcon60x60@2x.png
+o/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LaunchImage-700-568h@2x.png
+o/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Assets.car
+o/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileAssetCatalog build/Debug-iphoneos/Lyte.app Lyte/Images.xcassets70"CompileAssetCatalog build/Debug-iphoneos/Lyte.app Lyte/Images.xcassetsecf63570b50cb941^dd989eb6b50cb941^-807"/* com.apple.actool.document.warnings *//Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/LyteIcon@2x-2.png is 120x120 but should be 58x58./Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets:./AppIcon.appiconset/[iphone][40x40][2x]: warning: AppIcon.appiconset/LyteIcon@2x.png is 120x120 but should be 80x80./* com.apple.actool.compilation-results *//Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/AppIcon60x60@2x.png/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LaunchImage-700-568h@2x.png/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Assets.car/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_generated_info.plist2(21%IDEActivityLogMessage2@68"AppIcon.appiconset/LyteIcon@2x-2.png is 120x120 but should be 58x58.-420263349#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@64"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@66"AppIcon.appiconset/LyteIcon@2x.png is 120x120 but should be 80x80.-420263349#18446744073709551615#0#-1#-3@64"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@64"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets/0000000000000000^966"CompileAssetCatalog build/Debug-iphoneos/Lyte.app Lyte/Images.xcassets    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Images.xcassets36"1B159351-8E6D-4485-B311-B193E4D5B776-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.183228
+e420263251.624790
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m194"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o Lyte/AddPageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilereb012f42b50cb941^17f39f53b50cb941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m0000000000000000^3287"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o Lyte/AddPageViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AddPageViewController.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o36"697325FE-1A3C-49CC-B994-9597C5CB69D8-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.180851
+e420263251.622831
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m:43:29: warning: unused variable 'context' [-Wunused-variable]
+o    NSManagedObjectContext *context = [appDelegate managedObjectContext];
+o                            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m174"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o Lyte/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c6c2e42b50cb941^32719f53b50cb941^-242"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m:43:29: warning: unused variable 'context' [-Wunused-variable]    NSManagedObjectContext *context = [appDelegate managedObjectContext];                            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'context'-420263251#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m0000000000000000^42#28#42#28#1509#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m0000000000000000^3227"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o Lyte/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o36"BABFAAD4-44FE-4A9D-8BB5-E98498EA7B6A-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.183569
+e420263249.122030
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m160"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o Lyte/Book.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere8112f42b50cb941^d53c1f51b50cb941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m0000000000000000^3185"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o Lyte/Book.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o36"AEACEB24-2F21-4AD8-8FAC-464F547E9881-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263251.625082
+e420263256.696078
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m180"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o Lyte/IDMCaptionView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8a22a053b50cb941^8bdf345ab50cb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m0000000000000000^3245"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o Lyte/IDMCaptionView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o36"56E7FBA9-7DE7-4503-8CD2-DF554A96CD13-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.181459
+e420263252.227615
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m:139:27: warning: unused variable 'request' [-Wunused-variable]
+o            NSURLRequest *request = [NSURLRequest requestWithURL:_photoURL];
+o                          ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m168"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o Lyte/IDMPhoto.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler04902e42b50cb941^b5c07254b50cb941^-241"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m:139:27: warning: unused variable 'request' [-Wunused-variable]            NSURLRequest *request = [NSURLRequest requestWithURL:_photoURL];                          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'request'-420263252#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@58"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m0000000000000000^138#26#138#26#3317#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@58"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m0000000000000000^3209"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o Lyte/IDMPhoto.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o36"5D5508B7-6611-4304-98C5-36B852ED9896-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.182458
+e420263252.316351
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m182"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o Lyte/IDMPhotoBrowser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler50df2e42b50cb941^87c37254b50cb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m0000000000000000^3251"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o Lyte/IDMPhotoBrowser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o36"5F094102-65BA-4D47-B43F-2E6CD65E4AE9-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.181843
+e420263251.576391
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m200"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o Lyte/IDMTapDetectingImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler17ba2e42b50cb941^32909353b50cb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m0000000000000000^3305"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o Lyte/IDMTapDetectingImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o36"7B6C6131-A712-4088-BCA2-F75C078FEAEA-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.181148
+e420263251.577201
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m190"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o Lyte/IDMTapDetectingView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler537a2e42b50cb941^9cc59353b50cb941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m0000000000000000^3275"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o Lyte/IDMTapDetectingView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o36"28A5FBE8-B8EB-4826-984B-912D816D459F-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263256.696946
+e420263257.359472
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingImageView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMTapDetectingView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:28:17: warning: method definition for 'displayImageFailure' not found [-Wincomplete-implementation]
+o@implementation IDMZoomingScrollView
+o                ^
+oIn file included from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:9:
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h:37:1: note: method 'displayImageFailure' declared here
+o- (void)displayImageFailure;
+o^
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:28:17: warning: method definition for 'setProgress:forPhoto:' not found [-Wincomplete-implementation]
+o@implementation IDMZoomingScrollView
+o                ^
+oIn file included from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:9:
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h:38:1: note: method 'setProgress:forPhoto:' declared here
+o- (void)setProgress:(CGFloat)progress forPhoto:(IDMPhoto*)photo;
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m192"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o Lyte/IDMZoomingScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler44a8b258b50cb941^ae11355ab50cb941^-978"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:28:17: warning: method definition for 'displayImageFailure' not found [-Wincomplete-implementation]@implementation IDMZoomingScrollView                ^In file included from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:9:/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h:37:1: note: method 'displayImageFailure' declared here- (void)displayImageFailure;^/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:28:17: warning: method definition for 'setProgress:forPhoto:' not found [-Wincomplete-implementation]@implementation IDMZoomingScrollView                ^In file included from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m:9:/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h:38:1: note: method 'setProgress:forPhoto:' declared here- (void)setProgress:(CGFloat)progress forPhoto:(IDMPhoto*)photo;^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@53"Method definition for 'displayImageFailure' not found-420263257#18446744073709551615#0#1(2@42"Method 'displayImageFailure' declared here-420263257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@70"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h0000000000000000^36#0#36#0#1076#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m0000000000000000^27#16#27#16#680#0#14"Semantic Issue--2@55"Method definition for 'setProgress:forPhoto:' not found-420263257#18446744073709551615#0#1(2@44"Method 'setProgress:forPhoto:' declared here-420263257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.h0000000000000000^37#0#37#0#1105#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m0000000000000000^27#16#27#16#680#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@70"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m0000000000000000^3281"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o Lyte/IDMZoomingScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMZoomingScrollView.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o36"0B0D06EF-72E0-4C85-A3FA-5B255DAC002F-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263234.182928
+e420263251.624156
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m:75:60: warning: incompatible pointer to integer conversion sending 'NSNumber *' to parameter of type 'int' [-Wint-conversion]
+o                NSNumber *pageN = [NSNumber numberWithInt: coverPage.pageNumber];
+o                                                           ^~~~~~~~~~~~~~~~~~~~
+oIn module 'Foundation' imported from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h:86:34: note: passing argument to parameter 'value' here
+o+ (NSNumber *)numberWithInt:(int)value;
+o                                 ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m214"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o Lyte/LibraryCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler38f82e42b50cb941^3bc89f53b50cb941^-770"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m:75:60: warning: incompatible pointer to integer conversion sending 'NSNumber *' to parameter of type 'int' [-Wint-conversion]                NSNumber *pageN = [NSNumber numberWithInt: coverPage.pageNumber];                                                           ^~~~~~~~~~~~~~~~~~~~In module 'Foundation' imported from /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h:86:34: note: passing argument to parameter 'value' here+ (NSNumber *)numberWithInt:(int)value;                                 ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@90"Incompatible pointer to integer conversion sending 'NSNumber *' to parameter of type 'int'-420263251#18446744073709551615#0#1(2@42"Passing argument to parameter 'value' here-420263251#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@173"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h0000000000000000^85#33#85#33#2434#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m0000000000000000^74#59#74#59#2223#0#22"Value Conversion Issue1(3@81"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m0000000000000000^74#59#74#79#2223#10#-0#0#1#-19%DVTDocumentLocation4@81"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m0000000000000000^3347"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o Lyte/LibraryCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o36"F2FBEEA3-FF78-4900-A9CC-D98022F12DEF-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263256.955060
+e420263257.903579
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m168"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o Lyte/LyteData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1b8f458b50cb941^f019355ab50cb941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m0000000000000000^3209"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o Lyte/LyteData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o36"89CC9653-8768-4F02-BCF9-90954CAA547E-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263256.696512
+e420263257.181624
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m188"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o Lyte/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1a87b258b50cb941^b1fd345ab50cb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m0000000000000000^3269"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o Lyte/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/MainViewController.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o36"D6DA2A6D-54C6-439E-A373-BB680E4B6465-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263257.359838
+e420263257.984063
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m194"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o Lyte/NewBookViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler52465c59b50cb941^b323355ab50cb941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m0000000000000000^3287"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o Lyte/NewBookViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/NewBookViewController.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o36"B3D49573-F685-4764-8515-A9A1A0628CF1-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263256.696588
+e420263256.954533
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m160"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o Lyte/Page.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2788b258b50cb941^6ff5345ab50cb941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m0000000000000000^3185"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o Lyte/Page.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o36"214FAC4D-A1CA-4C09-AE7B-4972A8DCA82A-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263249.122484
+e420263256.696590
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhoto.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoProtocol.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBConstants.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMCaptionView.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Book.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Page.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteData.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LibraryCollectionViewController.h
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m:140:15: warning: unused variable 'title' [-Wunused-variable]
+o    NSString *title = [NSString stringWithFormat:@"Option %d", buttonIndex+1];
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m208"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o Lyte/PageCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler41ef5951b50cb941^eae8345ab50cb941^-249"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m:140:15: warning: unused variable 'title' [-Wunused-variable]    NSString *title = [NSString stringWithFormat:@"Option %d", buttonIndex+1];              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'title'-420263256#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@78"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m0000000000000000^139#14#139#14#4478#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m0000000000000000^3329"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o Lyte/PageCollectionViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/PageCollectionViewController.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o36"625D00E0-5D6D-41AC-ABBF-C7D8C14F594F-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263257.181951
+e420263257.904803
+r1
+xCompileC
+xbuild/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m160"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o Lyte/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfb62e59b50cb941^2920355ab50cb941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m0000000000000000^3185"CompileC build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o Lyte/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -include /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch -MMD -MT dependencies -MF /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.dia -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/main.m -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o36"EFFCEA46-FBCA-483D-A2F6-AE0D8FB6A7E1-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCompileStoryboard /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard
+s420263280.210062
+e420263415.728467
+r1
+xCompileStoryboard
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard
+o2014-04-26 20:49:41.969 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UIImageView: 0xb63cd80; frame = (8 9; 125 175); autoresize = W+H; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb63df40>>) coordinate space view <UIView: 0xb648b60; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb648d60>; layer = <CALayer: 0xb648bc0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:42.625 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UILabel: 0xb6422e0; frame = (8 188; 125 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb63e260>>) coordinate space view <UIView: 0xb648b60; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb648d60>; layer = <CALayer: 0xb648bc0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:42.667 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UILabel: 0xb648c90; frame = (3 97; 97 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb648d30>>) coordinate space view <UIView: 0xb6441d0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb6443d0>; layer = <CALayer: 0xb644230>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:42.667 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UIImageView: 0xb6428a0; frame = (21 8; 61 90); autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb642930>>) coordinate space view <UIView: 0xb6441d0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb6443d0>; layer = <CALayer: 0xb644230>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:55.219 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UIImageView: 0xb2d8340; frame = (8 9; 125 175); autoresize = W+H; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb2c1920>>) coordinate space view <UIView: 0xb2e59e0; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb28d5a0>; layer = <CALayer: 0xb2bcc80>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:55.219 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UILabel: 0xb2d8fd0; frame = (8 188; 125 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb2d8e10>>) coordinate space view <UIView: 0xb2e59e0; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb28d5a0>; layer = <CALayer: 0xb2bcc80>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:55.230 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UILabel: 0x1bf5fdd0; frame = (3 97; 97 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb5c9c90>>) coordinate space view <UIView: 0x1bf5fcf0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb591290>; layer = <CALayer: 0xb5945f0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+o2014-04-26 20:49:55.231 Interface Builder Cocoa Touch Tool[21214:303] 
+oWARNING: 
+oReason:     Could not find layout engine view for view's (<UIImageView: 0x1bf60150; frame = (21 8; 61 90); autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0x1bf601e0>>) coordinate space view <UIView: 0x1bf5fcf0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb591290>; layer = <CALayer: 0xb5945f0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.
+oFile:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335
+oMethod:     -[IBAutolayoutEngine layoutFrameForView:inCoordinateSpaceOfView:]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard Lyte/Base.lproj/Main.storyboard49"CompileStoryboard Lyte/Base.lproj/Main.storyboard77d73570b50cb941^c860bdf7b50cb941^-5603"2014-04-26 20:49:41.969 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UIImageView: 0xb63cd80; frame = (8 9; 125 175); autoresize = W+H; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb63df40>>) coordinate space view <UIView: 0xb648b60; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb648d60>; layer = <CALayer: 0xb648bc0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:42.625 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UILabel: 0xb6422e0; frame = (8 188; 125 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb63e260>>) coordinate space view <UIView: 0xb648b60; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb648d60>; layer = <CALayer: 0xb648bc0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:42.667 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UILabel: 0xb648c90; frame = (3 97; 97 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb648d30>>) coordinate space view <UIView: 0xb6441d0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb6443d0>; layer = <CALayer: 0xb644230>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:42.667 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UIImageView: 0xb6428a0; frame = (21 8; 61 90); autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb642930>>) coordinate space view <UIView: 0xb6441d0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb6443d0>; layer = <CALayer: 0xb644230>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:55.219 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UIImageView: 0xb2d8340; frame = (8 9; 125 175); autoresize = W+H; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb2c1920>>) coordinate space view <UIView: 0xb2e59e0; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb28d5a0>; layer = <CALayer: 0xb2bcc80>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:55.219 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UILabel: 0xb2d8fd0; frame = (8 188; 125 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0xb2d8e10>>) coordinate space view <UIView: 0xb2e59e0; frame = (0 0; 141 209); autoresize = W+H; gestureRecognizers = <NSArray: 0xb28d5a0>; layer = <CALayer: 0xb2bcc80>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:55.230 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UILabel: 0x1bf5fdd0; frame = (3 97; 97 21); text = 'Label'; clipsToBounds = YES; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; tag = 100; layer = <CALayer: 0xb5c9c90>>) coordinate space view <UIView: 0x1bf5fcf0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb591290>; layer = <CALayer: 0xb5945f0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     -2014-04-26 20:49:55.231 Interface Builder Cocoa Touch ToolWARNING:Reason:     Could not find layout engine view for view's (<UIImageView: 0x1bf60150; frame = (21 8; 61 90); autoresize = RM+BM; userInteractionEnabled = NO; tag = 99; layer = <CALayer: 0x1bf601e0>>) coordinate space view <UIView: 0x1bf5fcf0; frame = (0 0; 103 123); autoresize = W+H; gestureRecognizers = <NSArray: 0xb591290>; layer = <CALayer: 0xb5945f0>>. But the canvas coordinateSpaceView is view's superview, so we are assuming the same in the layout engine.File:       /SourceCache/IBAutolayoutFoundationIOS/IBAutolayoutFoundation-3431/Framework/Classes/Arbitration/IBAutolayoutEngine.m:335Method:     --0#0#1#-19%DVTDocumentLocation2@74"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard0000000000000000^753"CompileStoryboard Lyte/Base.lproj/Main.storyboard    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Base.lproj/Main.storyboardc /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Base.lproj/Main.storyboard36"0E9F3420-DEA5-4497-8A55-8761CCD3439C-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add-New-32.png Lyte/Add-New-32.png
+s420263280.079926
+e420263280.210730
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add-New-32.png
+xLyte/Add-New-32.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add-New-32.png Lyte/Add-New-32.png76"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add-New-32.png Lyte/Add-New-32.pngde921470b50cb941^fef23570b50cb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add-New-32.png0000000000000000^556"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add-New-32.png Lyte/Add-New-32.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add-New-32.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add-New-32.png36"809CF657-9741-429E-9FF1-09F02973129B-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add.png Lyte/Add.png
+s420263279.604399
+e420263280.078910
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add.png
+xLyte/Add.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add.png Lyte/Add.png62"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add.png Lyte/Add.pnga0c59a6fb50cb941^533e1470b50cb941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add.png0000000000000000^528"CopyPNGFile build/Debug-iphoneos/Lyte.app/Add.png Lyte/Add.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Add.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Add.png36"BF8C5B2B-38D3-4AC4-BEAB-448763759871-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-32.png Lyte/Library-Books-32.png
+s420263279.915680
+e420263280.210407
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-32.png
+xLyte/Library-Books-32.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-32.png Lyte/Library-Books-32.png88"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-32.png Lyte/Library-Books-32.png1f82ea6fb50cb941^d3dd3570b50cb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-32.png0000000000000000^580"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-32.png Lyte/Library-Books-32.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-32.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-32.png36"396ED1EF-897F-4971-978A-1D28D5CF16EB-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-48.png Lyte/Library-Books-48.png
+s420263266.868937
+e420263279.601893
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-48.png
+xLyte/Library-Books-48.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-48.png Lyte/Library-Books-48.png88"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-48.png Lyte/Library-Books-48.png728ade62b50cb941^b5169a6fb50cb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-48.png0000000000000000^580"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library-Books-48.png Lyte/Library-Books-48.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library-Books-48.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library-Books-48.png36"B8A2ACC2-15E9-4058-A329-D6AB38D945A6-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library.png Lyte/Library.png
+s420263266.822855
+e420263279.602721
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library.png
+xLyte/Library.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library.png Lyte/Library.png70"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library.png Lyte/Library.pngc0b2d262b50cb941^c74c9a6fb50cb941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library.png0000000000000000^544"CopyPNGFile build/Debug-iphoneos/Lyte.app/Library.png Lyte/Library.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Library.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Library.png36"3AC483E3-3270-49B4-A595-0C3BC28AAC92-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png Lyte/LyteIcon@2x.png
+s420263279.604152
+e420263280.079677
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png
+xLyte/LyteIcon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CopyPNGFile build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png Lyte/LyteIcon@2x.png78"CopyPNGFile build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png Lyte/LyteIcon@2x.pngedbb9a6fb50cb941^3c661470b50cb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteIcon@2x.png0000000000000000^560"CopyPNGFile build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png Lyte/LyteIcon@2x.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/LyteIcon@2x.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/LyteIcon@2x.png36"AC79CD8A-D0A2-4EB4-833A-4B95040EA0BC-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/camera.png Lyte/camera.png
+s420263280.079212
+e420263280.490296
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/camera.png
+xLyte/camera.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CopyPNGFile build/Debug-iphoneos/Lyte.app/camera.png Lyte/camera.png68"CopyPNGFile build/Debug-iphoneos/Lyte.app/camera.png Lyte/camera.png45681470b50cb941^2b847d70b50cb941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/camera.png0000000000000000^540"CopyPNGFile build/Debug-iphoneos/Lyte.app/camera.png Lyte/camera.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/camera.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/camera.png36"FDE74A82-4EB3-4BCA-8F54-64900CBCD3EB-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/check.png Lyte/check.png
+s420263280.079065
+e420263280.489980
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/check.png
+xLyte/check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CopyPNGFile build/Debug-iphoneos/Lyte.app/check.png Lyte/check.png66"CopyPNGFile build/Debug-iphoneos/Lyte.app/check.png Lyte/check.png74611470b50cb941^3b717d70b50cb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/check.png0000000000000000^536"CopyPNGFile build/Debug-iphoneos/Lyte.app/check.png Lyte/check.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/check.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/check.png36"80B63FC7-DCDC-4D0E-BB8A-B562A8359FE7-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/icon@2x.png Lyte/icon@2x.png
+s420263266.822748
+e420263279.602528
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/icon@2x.png
+xLyte/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CopyPNGFile build/Debug-iphoneos/Lyte.app/icon@2x.png Lyte/icon@2x.png70"CopyPNGFile build/Debug-iphoneos/Lyte.app/icon@2x.png Lyte/icon@2x.png71add262b50cb941^96409a6fb50cb941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/icon@2x.png0000000000000000^544"CopyPNGFile build/Debug-iphoneos/Lyte.app/icon@2x.png Lyte/icon@2x.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/icon@2x.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/icon@2x.png36"16BA9B9A-FDB6-4574-A131-61A7163341BD-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/picture.png Lyte/picture.png
+s420263266.823162
+e420263279.603994
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/picture.png
+xLyte/picture.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CopyPNGFile build/Debug-iphoneos/Lyte.app/picture.png Lyte/picture.png70"CopyPNGFile build/Debug-iphoneos/Lyte.app/picture.png Lyte/picture.pngbcced262b50cb941^ae9f9a6fb50cb941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/picture.png0000000000000000^544"CopyPNGFile build/Debug-iphoneos/Lyte.app/picture.png Lyte/picture.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/picture.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/picture.png36"A22CA3BF-29A1-4371-AC11-4E000CDCD568-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/placeholder.png Lyte/placeholder.png
+s420263279.602127
+e420263280.079401
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/placeholder.png
+xLyte/placeholder.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CopyPNGFile build/Debug-iphoneos/Lyte.app/placeholder.png Lyte/placeholder.png78"CopyPNGFile build/Debug-iphoneos/Lyte.app/placeholder.png Lyte/placeholder.png3b3a9a6fb50cb941^37541470b50cb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/placeholder.png0000000000000000^560"CopyPNGFile build/Debug-iphoneos/Lyte.app/placeholder.png Lyte/placeholder.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/placeholder.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/placeholder.png36"777721A3-3CFF-416E-8B89-98F134B5CE34-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyPNGFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/test.png Lyte/test.png
+s420263279.602143
+e420263280.078754
+r1
+xCopyPNGFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/test.png
+xLyte/test.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CopyPNGFile build/Debug-iphoneos/Lyte.app/test.png Lyte/test.png64"CopyPNGFile build/Debug-iphoneos/Lyte.app/test.png Lyte/test.png15379a6fb50cb941^302b1470b50cb941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/test.png0000000000000000^532"CopyPNGFile build/Debug-iphoneos/Lyte.app/test.png Lyte/test.png    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/test.png /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/test.png36"203EE083-0E84-4B3A-A89B-87B336B47775-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCopyStringsFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings Lyte/en.lproj/InfoPlist.strings
+s420263279.602924
+e420263279.915411
+r1
+xCopyStringsFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings
+xLyte/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Lyte/en.lproj/InfoPlist.strings104"CopyStringsFile build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings Lyte/en.lproj/InfoPlist.stringseb6e9a6fb50cb941^e34ff06fb50cb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/en.lproj/InfoPlist.strings0000000000000000^536"CopyStringsFile build/Debug-iphoneos/Lyte.app/en.lproj/InfoPlist.strings Lyte/en.lproj/InfoPlist.strings    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/en.lproj -- Lyte/en.lproj/InfoPlist.strings36"D80C5194-7C72-4D4E-93E8-26C636B7656B-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/Lyte.app/ResourceRules.plist
+s420263224.975132
+e420263225.043301
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/Lyte.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphoneos/Lyte.app/ResourceRules.plist182"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/Lyte.app/ResourceRules.plist8ab0f938b50cb941^ce170b39b50cb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/ResourceRules.plist0034f8efdcffdf42^714"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/Lyte.app/ResourceRules.plist    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app36"37ACAD14-575B-45B6-9D67-35566E316CE1-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCpResource Lyte/IDMPBLocalizations.bundle build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle
+s420263266.823004
+e420263266.868711
+r1
+xCpResource
+xLyte/IDMPBLocalizations.bundle
+xbuild/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle97"CpResource Lyte/IDMPBLocalizations.bundle build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundlee8c0d262b50cb941^b264de62b50cb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle0034f8efdcffdf42^574"CpResource Lyte/IDMPBLocalizations.bundle build/Debug-iphoneos/Lyte.app/IDMPBLocalizations.bundle    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPBLocalizations.bundle /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app36"04FF5B5B-8050-4BD4-BDEB-9C7C149DD457-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCpResource Lyte/IDMPhotoBrowser.bundle build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle
+s420263279.602814
+e420263279.604223
+r1
+xCpResource
+xLyte/IDMPhotoBrowser.bundle
+xbuild/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle91"CpResource Lyte/IDMPhotoBrowser.bundle build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundleaa669a6fb50cb941^68af9a6fb50cb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle0034f8efdcffdf42^565"CpResource Lyte/IDMPhotoBrowser.bundle build/Debug-iphoneos/Lyte.app/IDMPhotoBrowser.bundle    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/IDMPhotoBrowser.bundle /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app36"57E52A25-62B0-4F6E-B7FF-61D7D0AA0ED2-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CCpResource Lyte/loading.gif build/Debug-iphoneos/Lyte.app/loading.gif
+s420263280.079630
+e420263280.209912
+r1
+xCpResource
+xLyte/loading.gif
+xbuild/Debug-iphoneos/Lyte.app/loading.gif
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/Debug-iphoneos/Lyte.app/loading.gif69"CpResource Lyte/loading.gif build/Debug-iphoneos/Lyte.app/loading.gif137f1470b50cb941^84bd3570b50cb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/loading.gif0034f8efdcffdf42^532"CpResource Lyte/loading.gif build/Debug-iphoneos/Lyte.app/loading.gif    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/loading.gif /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app36"8F98FE13-16CB-453C-85F5-B763485234CC-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CDataModelVersionCompile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte.momd /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld
+s420263225.044754
+e420263234.180012
+r1
+xDataModelVersionCompile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte.momd
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld
+o/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld/Lyte.xcdatamodel:Book.hasPages: warning: Book.hasPages does not have an inverse; this is an advanced setting (no object can be in multiple destinations for a specific relationship) [5]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"DataModelVersionCompile build/Debug-iphoneos/Lyte.app/Lyte.momd Lyte/Lyte.xcdatamodeld86"DataModelVersionCompile build/Debug-iphoneos/Lyte.app/Lyte.momd Lyte/Lyte.xcdatamodeld158f0b39b50cb941^ca152e42b50cb941^-240"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld/Lyte.xcdatamodel:Book.hasPages: warning: Book.hasPages does not have an inverse; this is an advanced setting (no object can be in multiple destinations for a specific relationship)1(21%IDEActivityLogMessage2@139"Book.hasPages does not have an inverse; this is an advanced setting (no object can be in multiple destinations for a specific relationship)167"/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld/Lyte.xcdatamodel:Book.hasPages: warning: Book.hasPages does not have an inverse; this is an advanced setting420263227#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@83"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld/Lyte.xcdatamodel/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#17"Consistency Error--0#0#1#-19%DVTDocumentLocation4@66"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld/0000000000000000^689"DataModelVersionCompile build/Debug-iphoneos/Lyte.app/Lyte.momd Lyte/Lyte.xcdatamodeld    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte.xcdatamodeld /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte.momd36"793510A3-28EF-45A2-854C-0A05A2952AA1-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CGenerateDSYMFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte
+s420263416.858242
+e420263418.343374
+r1
+xGenerateDSYMFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Generate /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM86"GenerateDSYMFile build/Debug-iphoneos/Lyte.app.dSYM build/Debug-iphoneos/Lyte.app/Lytec0ccdbf8b50cb941^21e957fab50cb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM0034f8efdcffdf42^563"GenerateDSYMFile build/Debug-iphoneos/Lyte.app.dSYM build/Debug-iphoneos/Lyte.app/Lyte    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app.dSYM36"CD1BFBE1-82C5-42C2-89FD-DB5E73DBEE57-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CLd /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte normal armv7
+s420263258.218515
+e420263266.822042
+r1
+xLd
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte
+xnormal
+xarmv7
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Lyte.LinkFileList
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AppDelegate.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingView.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhoto.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMTapDetectingImageView.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMPhotoBrowser.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LibraryCollectionViewController.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/AddPageViewController.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Book.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/PageCollectionViewController.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMCaptionView.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/MainViewController.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Page.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/IDMZoomingScrollView.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/LyteData.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/main.o
+d/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/NewBookViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Link /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte50"Ld build/Debug-iphoneos/Lyte.app/Lyte normal armv7a704385ab50cb941^de71d262b50cb941^---0#0#1#--1178"Ld build/Debug-iphoneos/Lyte.app/Lyte normal armv7    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos -filelist /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Lyte.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Objects-normal/armv7/Lyte_dependency_info.dat -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Lyte36"2E7EDF9C-2C1E-4766-91D8-8DB6B0CAE37B-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CProcessInfoPlistFile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Info.plist /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist
+s420263415.918793
+e420263416.857427
+r1
+xProcessInfoPlistFile
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Info.plist
+x/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist82"ProcessInfoPlistFile build/Debug-iphoneos/Lyte.app/Info.plist Lyte/Lyte-Info.plist500025f8b50cb941^9581dbf8b50cb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist0000000000000000^862"ProcessInfoPlistFile build/Debug-iphoneos/Lyte.app/Info.plist Lyte/Lyte-Info.plist    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Info.plist -genpkginfo /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/ResourceRules.plist -additionalcontentfile /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/assetcatalog_generated_info.plist -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/Info.plist36"E7DA5A9F-F3B2-4601-A566-B3B819ECF7D8-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CProcessPCH /Users/alexyeh/Library/Developer/Xcode/DerivedData/Lyte-esplogrufiyihyhkdectifyxqomt/Index/PrecompiledHeaders/Lyte-Prefix-egsichhhnvpatabfvvrmairjyzsv_ast/Lyte-Prefix.pch.pch Lyte/Lyte-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch Lyte/Lyte-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420263225.045844
+e420263233.725102
+r1
+xProcessPCH
+x/var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch
+xLyte/Lyte-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Lyte/Lyte-Prefix.pch279"ProcessPCH /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch Lyte/Lyte-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fdf0b39b50cb941^01a1b941b50cb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Prefix.pch0000000000000000^3348"ProcessPCH /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch Lyte/Lyte-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/alexyeh/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-generated-files.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-own-target-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-all-target-headers.hmap -iquote /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte-project-headers.hmap -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources/armv7 -I/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/DerivedSources -F/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos --serialize-diagnostics /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.d -c /Users/alexyeh/Dropbox/Spencer/Lyte/Lyte/Lyte-Prefix.pch -o /var/folders/4q/pzp61xxd1wb294rvmvlr1tp00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Lyte-Prefix-ddxeedkuqaculedkyeexpzocscgr/Lyte-Prefix.pch.pch36"041A703E-F8F3-47E1-84D8-5943A99EC2AD-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent
+s420263418.542008
+e420263419.046894
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection198"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent198"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent69e18afab50cb941^04030cfbb50cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent0034f8efdcffdf42^706"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Lyte.build/Debug-iphoneos/Lyte.build/Lyte.xcent36"27613EFB-F5A5-481C-A54F-A464CABF2195-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CProcessProductPackaging /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision
+s420263418.344349
+e420263418.487908
+r1
+xProcessProductPackaging
+x/Users/alexyeh/Library/MobileDevice/Provisioning Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision
+x/Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection190"ProcessProductPackaging /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision build/Debug-iphoneos/Lyte.app/embedded.mobileprovision190"ProcessProductPackaging /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision build/Debug-iphoneos/Lyte.app/embedded.mobileprovisiond44358fab50cb941^c9e87cfab50cb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision0034f8efdcffdf42^664"ProcessProductPackaging /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision build/Debug-iphoneos/Lyte.app/embedded.mobileprovision    cd /Users/alexyeh/Dropbox/Spencer/Lyte    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/alexyeh/Library/MobileDevice/Provisioning\ Profiles/3B7AFE26-485C-4270-8A8D-45A897A0E0E0.mobileprovision -o /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app/embedded.mobileprovision36"D21CAA2D-5E1E-46CA-A891-7EAC2CBFC915-
+b06E7B688-B8F0-4F3B-BAF4-C5774947A09B
+
+CTouch /Users/alexyeh/Dropbox/Spencer/Lyte/build/Debug-iphoneos/Lyte.app
+r0
+

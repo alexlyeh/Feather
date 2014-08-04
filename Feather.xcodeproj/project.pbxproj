@@ -1,0 +1,775 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B2683DA7191AF13A004EAF12 /* Feather -256 (2) copy.png in Resources */ = {isa = PBXBuildFile; fileRef = B2683DA6191AF13A004EAF12 /* Feather -256 (2) copy.png */; };
+		B2683DA9191AFD77004EAF12 /* featherIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2683DA8191AFD77004EAF12 /* featherIcon@2x.png */; };
+		B2683DAC191C2651004EAF12 /* FeatherSplash@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2683DAA191C2651004EAF12 /* FeatherSplash@2x.png */; };
+		B2683DAD191C2651004EAF12 /* FeatherSplash2.png in Resources */ = {isa = PBXBuildFile; fileRef = B2683DAB191C2651004EAF12 /* FeatherSplash2.png */; };
+		B26D994C190B338A00C19DF6 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = B26D994B190B338A00C19DF6 /* loading.gif */; };
+		B26D994E190B3C9800C19DF6 /* placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = B26D994D190B3C9800C19DF6 /* placeholder.png */; };
+		B26D997B190B53E800C19DF6 /* IDMCaptionView.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D996C190B53E800C19DF6 /* IDMCaptionView.m */; };
+		B26D997C190B53E800C19DF6 /* IDMPBLocalizations.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B26D996E190B53E800C19DF6 /* IDMPBLocalizations.bundle */; };
+		B26D997D190B53E800C19DF6 /* IDMPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D9970190B53E800C19DF6 /* IDMPhoto.m */; };
+		B26D997E190B53E800C19DF6 /* IDMPhotoBrowser.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B26D9971190B53E800C19DF6 /* IDMPhotoBrowser.bundle */; };
+		B26D997F190B53E800C19DF6 /* IDMPhotoBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D9973190B53E800C19DF6 /* IDMPhotoBrowser.m */; };
+		B26D9980190B53E800C19DF6 /* IDMTapDetectingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D9976190B53E800C19DF6 /* IDMTapDetectingImageView.m */; };
+		B26D9981190B53E800C19DF6 /* IDMTapDetectingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D9978190B53E800C19DF6 /* IDMTapDetectingView.m */; };
+		B26D9982190B53E800C19DF6 /* IDMZoomingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B26D997A190B53E800C19DF6 /* IDMZoomingScrollView.m */; };
+		B26D998A190F352100C19DF6 /* Book-Delete-48.png in Resources */ = {isa = PBXBuildFile; fileRef = B26D9989190F352000C19DF6 /* Book-Delete-48.png */; };
+		B26D998C190F363800C19DF6 /* Book-Delete-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B26D998B190F363800C19DF6 /* Book-Delete-32.png */; };
+		B26D998E190F3B5000C19DF6 /* Book-Delete-128.png in Resources */ = {isa = PBXBuildFile; fileRef = B26D998D190F3B5000C19DF6 /* Book-Delete-128.png */; };
+		B26D9990190F3B6F00C19DF6 /* Book-Delete-48 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = B26D998F190F3B6F00C19DF6 /* Book-Delete-48 (1).png */; };
+		B26D9992190F3B8100C19DF6 /* Book-Delete-48 (2).png in Resources */ = {isa = PBXBuildFile; fileRef = B26D9991190F3B8100C19DF6 /* Book-Delete-48 (2).png */; };
+		B292E1141902455800372B15 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1131902455700372B15 /* Foundation.framework */; };
+		B292E1161902455800372B15 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1151902455800372B15 /* CoreGraphics.framework */; };
+		B292E1181902455800372B15 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1171902455800372B15 /* UIKit.framework */; };
+		B292E11A1902455800372B15 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1191902455800372B15 /* CoreData.framework */; };
+		B292E1201902455900372B15 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B292E11E1902455900372B15 /* InfoPlist.strings */; };
+		B292E1221902455900372B15 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1211902455900372B15 /* main.m */; };
+		B292E1261902455900372B15 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1251902455900372B15 /* AppDelegate.m */; };
+		B292E1291902455A00372B15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B292E1271902455A00372B15 /* Main.storyboard */; };
+		B292E12C1902455A00372B15 /* Lyte.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B292E12A1902455A00372B15 /* Lyte.xcdatamodeld */; };
+		B292E1341902455B00372B15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B292E1331902455B00372B15 /* Images.xcassets */; };
+		B292E13B1902455C00372B15 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E13A1902455C00372B15 /* XCTest.framework */; };
+		B292E13C1902455C00372B15 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1131902455700372B15 /* Foundation.framework */; };
+		B292E13D1902455C00372B15 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1171902455800372B15 /* UIKit.framework */; };
+		B292E13E1902455C00372B15 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B292E1191902455800372B15 /* CoreData.framework */; };
+		B292E1461902455D00372B15 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B292E1441902455D00372B15 /* InfoPlist.strings */; };
+		B292E1481902455D00372B15 /* LyteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1471902455D00372B15 /* LyteTests.m */; };
+		B292E1561902475900372B15 /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1511902475900372B15 /* check.png */; };
+		B292E1571902475900372B15 /* picture.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1521902475900372B15 /* picture.png */; };
+		B292E1581902475900372B15 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1531902475900372B15 /* camera.png */; };
+		B292E15A1902475900372B15 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1551902475900372B15 /* icon@2x.png */; };
+		B292E15D190248BB00372B15 /* LyteData.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E15C190248BB00372B15 /* LyteData.m */; };
+		B292E1681902499000372B15 /* NewBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1631902499000372B15 /* NewBookViewController.m */; };
+		B292E1691902499000372B15 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1651902499000372B15 /* MainViewController.m */; };
+		B292E1721903A69000372B15 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1711903A69000372B15 /* test.png */; };
+		B292E1751903A6B600372B15 /* LibraryCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1741903A6B600372B15 /* LibraryCollectionViewController.m */; };
+		B292E18A1905DE6C00372B15 /* AddPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E1891905DE6C00372B15 /* AddPageViewController.m */; };
+		B292E18D1907109400372B15 /* PageCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B292E18C1907109400372B15 /* PageCollectionViewController.m */; };
+		B292E18F1909213B00372B15 /* Library.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E18E1909213A00372B15 /* Library.png */; };
+		B292E1911909214500372B15 /* Add.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1901909214500372B15 /* Add.png */; };
+		B292E1931909228E00372B15 /* Library-Books-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1921909228E00372B15 /* Library-Books-32.png */; };
+		B292E195190922D400372B15 /* Library-Books-48.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E194190922D400372B15 /* Library-Books-48.png */; };
+		B292E1971909230800372B15 /* Add-New-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E1961909230800372B15 /* Add-New-32.png */; };
+		B292E19919092E7C00372B15 /* LyteIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B292E19819092E7C00372B15 /* LyteIcon@2x.png */; };
+		B2C1D691191982ED000FBC77 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = B2C1D690191982ED000FBC77 /* Book.m */; };
+		B2C1D694191982F4000FBC77 /* Page.m in Sources */ = {isa = PBXBuildFile; fileRef = B2C1D693191982F4000FBC77 /* Page.m */; };
+		B2CD42331919E62200BEFD26 /* lyteSplash.png in Resources */ = {isa = PBXBuildFile; fileRef = B2CD42321919E62200BEFD26 /* lyteSplash.png */; };
+		B2D42886191DC8EB00B90AB7 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = B2D42885191DC8EB00B90AB7 /* splash.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B292E13F1902455C00372B15 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B292E1081902455600372B15 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B292E10F1902455700372B15;
+			remoteInfo = Lyte;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B2683DA6191AF13A004EAF12 /* Feather -256 (2) copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Feather -256 (2) copy.png"; sourceTree = "<group>"; };
+		B2683DA8191AFD77004EAF12 /* featherIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "featherIcon@2x.png"; sourceTree = "<group>"; };
+		B2683DAA191C2651004EAF12 /* FeatherSplash@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FeatherSplash@2x.png"; sourceTree = "<group>"; };
+		B2683DAB191C2651004EAF12 /* FeatherSplash2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FeatherSplash2.png; sourceTree = "<group>"; };
+		B26D994B190B338A00C19DF6 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
+		B26D994D190B3C9800C19DF6 /* placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholder.png; sourceTree = "<group>"; };
+		B26D996B190B53E700C19DF6 /* IDMCaptionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMCaptionView.h; sourceTree = "<group>"; };
+		B26D996C190B53E800C19DF6 /* IDMCaptionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMCaptionView.m; sourceTree = "<group>"; };
+		B26D996D190B53E800C19DF6 /* IDMPBConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMPBConstants.h; sourceTree = "<group>"; };
+		B26D996E190B53E800C19DF6 /* IDMPBLocalizations.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = IDMPBLocalizations.bundle; sourceTree = "<group>"; };
+		B26D996F190B53E800C19DF6 /* IDMPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMPhoto.h; sourceTree = "<group>"; };
+		B26D9970190B53E800C19DF6 /* IDMPhoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMPhoto.m; sourceTree = "<group>"; };
+		B26D9971190B53E800C19DF6 /* IDMPhotoBrowser.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = IDMPhotoBrowser.bundle; sourceTree = "<group>"; };
+		B26D9972190B53E800C19DF6 /* IDMPhotoBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMPhotoBrowser.h; sourceTree = "<group>"; };
+		B26D9973190B53E800C19DF6 /* IDMPhotoBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMPhotoBrowser.m; sourceTree = "<group>"; };
+		B26D9974190B53E800C19DF6 /* IDMPhotoProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMPhotoProtocol.h; sourceTree = "<group>"; };
+		B26D9975190B53E800C19DF6 /* IDMTapDetectingImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMTapDetectingImageView.h; sourceTree = "<group>"; };
+		B26D9976190B53E800C19DF6 /* IDMTapDetectingImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMTapDetectingImageView.m; sourceTree = "<group>"; };
+		B26D9977190B53E800C19DF6 /* IDMTapDetectingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMTapDetectingView.h; sourceTree = "<group>"; };
+		B26D9978190B53E800C19DF6 /* IDMTapDetectingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMTapDetectingView.m; sourceTree = "<group>"; };
+		B26D9979190B53E800C19DF6 /* IDMZoomingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDMZoomingScrollView.h; sourceTree = "<group>"; };
+		B26D997A190B53E800C19DF6 /* IDMZoomingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDMZoomingScrollView.m; sourceTree = "<group>"; };
+		B26D9989190F352000C19DF6 /* Book-Delete-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Book-Delete-48.png"; sourceTree = "<group>"; };
+		B26D998B190F363800C19DF6 /* Book-Delete-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Book-Delete-32.png"; sourceTree = "<group>"; };
+		B26D998D190F3B5000C19DF6 /* Book-Delete-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Book-Delete-128.png"; sourceTree = "<group>"; };
+		B26D998F190F3B6F00C19DF6 /* Book-Delete-48 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Book-Delete-48 (1).png"; sourceTree = "<group>"; };
+		B26D9991190F3B8100C19DF6 /* Book-Delete-48 (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Book-Delete-48 (2).png"; sourceTree = "<group>"; };
+		B292E1101902455700372B15 /* Feather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Feather.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B292E1131902455700372B15 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		B292E1151902455800372B15 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B292E1171902455800372B15 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		B292E1191902455800372B15 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		B292E11D1902455800372B15 /* Feather-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Feather-Info.plist"; sourceTree = "<group>"; };
+		B292E11F1902455900372B15 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B292E1211902455900372B15 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B292E1231902455900372B15 /* Feather-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Feather-Prefix.pch"; sourceTree = "<group>"; };
+		B292E1241902455900372B15 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B292E1251902455900372B15 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B292E1281902455A00372B15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B292E12B1902455A00372B15 /* Lyte.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Lyte.xcdatamodel; sourceTree = "<group>"; };
+		B292E1331902455B00372B15 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B292E1391902455C00372B15 /* FeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B292E13A1902455C00372B15 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		B292E1431902455D00372B15 /* FeatherTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FeatherTests-Info.plist"; sourceTree = "<group>"; };
+		B292E1451902455D00372B15 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B292E1471902455D00372B15 /* LyteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LyteTests.m; sourceTree = "<group>"; };
+		B292E1511902475900372B15 /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
+		B292E1521902475900372B15 /* picture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = picture.png; sourceTree = "<group>"; };
+		B292E1531902475900372B15 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		B292E1551902475900372B15 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		B292E15B190248BB00372B15 /* LyteData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LyteData.h; sourceTree = "<group>"; };
+		B292E15C190248BB00372B15 /* LyteData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LyteData.m; sourceTree = "<group>"; };
+		B292E1621902499000372B15 /* NewBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewBookViewController.h; sourceTree = "<group>"; };
+		B292E1631902499000372B15 /* NewBookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewBookViewController.m; sourceTree = "<group>"; };
+		B292E1641902499000372B15 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		B292E1651902499000372B15 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		B292E1711903A69000372B15 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		B292E1731903A6B600372B15 /* LibraryCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibraryCollectionViewController.h; sourceTree = "<group>"; };
+		B292E1741903A6B600372B15 /* LibraryCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibraryCollectionViewController.m; sourceTree = "<group>"; };
+		B292E1881905DE6C00372B15 /* AddPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddPageViewController.h; sourceTree = "<group>"; };
+		B292E1891905DE6C00372B15 /* AddPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddPageViewController.m; sourceTree = "<group>"; };
+		B292E18B1907109400372B15 /* PageCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageCollectionViewController.h; sourceTree = "<group>"; };
+		B292E18C1907109400372B15 /* PageCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageCollectionViewController.m; sourceTree = "<group>"; };
+		B292E18E1909213A00372B15 /* Library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Library.png; sourceTree = "<group>"; };
+		B292E1901909214500372B15 /* Add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Add.png; sourceTree = "<group>"; };
+		B292E1921909228E00372B15 /* Library-Books-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Library-Books-32.png"; sourceTree = "<group>"; };
+		B292E194190922D400372B15 /* Library-Books-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Library-Books-48.png"; sourceTree = "<group>"; };
+		B292E1961909230800372B15 /* Add-New-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add-New-32.png"; sourceTree = "<group>"; };
+		B292E19819092E7C00372B15 /* LyteIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LyteIcon@2x.png"; sourceTree = "<group>"; };
+		B2C1D68F191982EC000FBC77 /* Book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
+		B2C1D690191982ED000FBC77 /* Book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
+		B2C1D692191982F4000FBC77 /* Page.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page.h; sourceTree = "<group>"; };
+		B2C1D693191982F4000FBC77 /* Page.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page.m; sourceTree = "<group>"; };
+		B2CD42321919E62200BEFD26 /* lyteSplash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lyteSplash.png; sourceTree = "<group>"; };
+		B2D42885191DC8EB00B90AB7 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B292E10D1902455700372B15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E1161902455800372B15 /* CoreGraphics.framework in Frameworks */,
+				B292E11A1902455800372B15 /* CoreData.framework in Frameworks */,
+				B292E1181902455800372B15 /* UIKit.framework in Frameworks */,
+				B292E1141902455800372B15 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B292E1361902455C00372B15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E13B1902455C00372B15 /* XCTest.framework in Frameworks */,
+				B292E13E1902455C00372B15 /* CoreData.framework in Frameworks */,
+				B292E13D1902455C00372B15 /* UIKit.framework in Frameworks */,
+				B292E13C1902455C00372B15 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B26D9967190B438100C19DF6 /* CoolImageView */ = {
+			isa = PBXGroup;
+			children = (
+				B26D996B190B53E700C19DF6 /* IDMCaptionView.h */,
+				B26D996C190B53E800C19DF6 /* IDMCaptionView.m */,
+				B26D996D190B53E800C19DF6 /* IDMPBConstants.h */,
+				B26D996E190B53E800C19DF6 /* IDMPBLocalizations.bundle */,
+				B26D996F190B53E800C19DF6 /* IDMPhoto.h */,
+				B26D9970190B53E800C19DF6 /* IDMPhoto.m */,
+				B26D9971190B53E800C19DF6 /* IDMPhotoBrowser.bundle */,
+				B26D9972190B53E800C19DF6 /* IDMPhotoBrowser.h */,
+				B26D9973190B53E800C19DF6 /* IDMPhotoBrowser.m */,
+				B26D9974190B53E800C19DF6 /* IDMPhotoProtocol.h */,
+				B26D9975190B53E800C19DF6 /* IDMTapDetectingImageView.h */,
+				B26D9976190B53E800C19DF6 /* IDMTapDetectingImageView.m */,
+				B26D9977190B53E800C19DF6 /* IDMTapDetectingView.h */,
+				B26D9978190B53E800C19DF6 /* IDMTapDetectingView.m */,
+				B26D9979190B53E800C19DF6 /* IDMZoomingScrollView.h */,
+				B26D997A190B53E800C19DF6 /* IDMZoomingScrollView.m */,
+			);
+			name = CoolImageView;
+			path = Lyte;
+			sourceTree = SOURCE_ROOT;
+		};
+		B292E1071902455600372B15 = {
+			isa = PBXGroup;
+			children = (
+				B292E11B1902455800372B15 /* Lyte */,
+				B292E1411902455C00372B15 /* LyteTests */,
+				B292E1121902455700372B15 /* Frameworks */,
+				B292E1111902455700372B15 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B292E1111902455700372B15 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B292E1101902455700372B15 /* Feather.app */,
+				B292E1391902455C00372B15 /* FeatherTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B292E1121902455700372B15 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B292E1131902455700372B15 /* Foundation.framework */,
+				B292E1151902455800372B15 /* CoreGraphics.framework */,
+				B292E1171902455800372B15 /* UIKit.framework */,
+				B292E1191902455800372B15 /* CoreData.framework */,
+				B292E13A1902455C00372B15 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B292E11B1902455800372B15 /* Lyte */ = {
+			isa = PBXGroup;
+			children = (
+				B292E1241902455900372B15 /* AppDelegate.h */,
+				B292E1251902455900372B15 /* AppDelegate.m */,
+				B292E15B190248BB00372B15 /* LyteData.h */,
+				B292E15C190248BB00372B15 /* LyteData.m */,
+				B292E1271902455A00372B15 /* Main.storyboard */,
+				B292E1641902499000372B15 /* MainViewController.h */,
+				B292E1651902499000372B15 /* MainViewController.m */,
+				B292E1621902499000372B15 /* NewBookViewController.h */,
+				B292E1631902499000372B15 /* NewBookViewController.m */,
+				B292E1881905DE6C00372B15 /* AddPageViewController.h */,
+				B292E1891905DE6C00372B15 /* AddPageViewController.m */,
+				B292E1731903A6B600372B15 /* LibraryCollectionViewController.h */,
+				B292E1741903A6B600372B15 /* LibraryCollectionViewController.m */,
+				B292E18B1907109400372B15 /* PageCollectionViewController.h */,
+				B292E18C1907109400372B15 /* PageCollectionViewController.m */,
+				B2C1D68F191982EC000FBC77 /* Book.h */,
+				B2C1D690191982ED000FBC77 /* Book.m */,
+				B2C1D692191982F4000FBC77 /* Page.h */,
+				B2C1D693191982F4000FBC77 /* Page.m */,
+				B292E12A1902455A00372B15 /* Lyte.xcdatamodeld */,
+				B26D9967190B438100C19DF6 /* CoolImageView */,
+				B292E1331902455B00372B15 /* Images.xcassets */,
+				B292E11C1902455800372B15 /* Supporting Files */,
+			);
+			path = Lyte;
+			sourceTree = "<group>";
+		};
+		B292E11C1902455800372B15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B2D42885191DC8EB00B90AB7 /* splash.png */,
+				B2683DAA191C2651004EAF12 /* FeatherSplash@2x.png */,
+				B2683DAB191C2651004EAF12 /* FeatherSplash2.png */,
+				B2683DA8191AFD77004EAF12 /* featherIcon@2x.png */,
+				B2683DA6191AF13A004EAF12 /* Feather -256 (2) copy.png */,
+				B2CD42321919E62200BEFD26 /* lyteSplash.png */,
+				B26D9989190F352000C19DF6 /* Book-Delete-48.png */,
+				B26D9991190F3B8100C19DF6 /* Book-Delete-48 (2).png */,
+				B26D998F190F3B6F00C19DF6 /* Book-Delete-48 (1).png */,
+				B26D998D190F3B5000C19DF6 /* Book-Delete-128.png */,
+				B26D998B190F363800C19DF6 /* Book-Delete-32.png */,
+				B26D994D190B3C9800C19DF6 /* placeholder.png */,
+				B26D994B190B338A00C19DF6 /* loading.gif */,
+				B292E19819092E7C00372B15 /* LyteIcon@2x.png */,
+				B292E1961909230800372B15 /* Add-New-32.png */,
+				B292E194190922D400372B15 /* Library-Books-48.png */,
+				B292E1921909228E00372B15 /* Library-Books-32.png */,
+				B292E1901909214500372B15 /* Add.png */,
+				B292E18E1909213A00372B15 /* Library.png */,
+				B292E1711903A69000372B15 /* test.png */,
+				B292E1511902475900372B15 /* check.png */,
+				B292E1521902475900372B15 /* picture.png */,
+				B292E1531902475900372B15 /* camera.png */,
+				B292E1551902475900372B15 /* icon@2x.png */,
+				B292E11D1902455800372B15 /* Feather-Info.plist */,
+				B292E11E1902455900372B15 /* InfoPlist.strings */,
+				B292E1211902455900372B15 /* main.m */,
+				B292E1231902455900372B15 /* Feather-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B292E1411902455C00372B15 /* LyteTests */ = {
+			isa = PBXGroup;
+			children = (
+				B292E1471902455D00372B15 /* LyteTests.m */,
+				B292E1421902455D00372B15 /* Supporting Files */,
+			);
+			path = LyteTests;
+			sourceTree = "<group>";
+		};
+		B292E1421902455D00372B15 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B292E1431902455D00372B15 /* FeatherTests-Info.plist */,
+				B292E1441902455D00372B15 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B292E10F1902455700372B15 /* Feather */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B292E14B1902455E00372B15 /* Build configuration list for PBXNativeTarget "Feather" */;
+			buildPhases = (
+				B292E10C1902455700372B15 /* Sources */,
+				B292E10D1902455700372B15 /* Frameworks */,
+				B292E10E1902455700372B15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Feather;
+			productName = Lyte;
+			productReference = B292E1101902455700372B15 /* Feather.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B292E1381902455C00372B15 /* FeatherTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B292E14E1902455E00372B15 /* Build configuration list for PBXNativeTarget "FeatherTests" */;
+			buildPhases = (
+				B292E1351902455C00372B15 /* Sources */,
+				B292E1361902455C00372B15 /* Frameworks */,
+				B292E1371902455C00372B15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B292E1401902455C00372B15 /* PBXTargetDependency */,
+			);
+			name = FeatherTests;
+			productName = LyteTests;
+			productReference = B292E1391902455C00372B15 /* FeatherTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B292E1081902455600372B15 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Alex Yeh";
+				TargetAttributes = {
+					B292E10F1902455700372B15 = {
+						DevelopmentTeam = R9FZ4DBS7P;
+					};
+					B292E1381902455C00372B15 = {
+						TestTargetID = B292E10F1902455700372B15;
+					};
+				};
+			};
+			buildConfigurationList = B292E10B1902455700372B15 /* Build configuration list for PBXProject "Feather" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B292E1071902455600372B15;
+			productRefGroup = B292E1111902455700372B15 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B292E10F1902455700372B15 /* Feather */,
+				B292E1381902455C00372B15 /* FeatherTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B292E10E1902455700372B15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E1341902455B00372B15 /* Images.xcassets in Resources */,
+				B292E15A1902475900372B15 /* icon@2x.png in Resources */,
+				B26D998A190F352100C19DF6 /* Book-Delete-48.png in Resources */,
+				B292E18F1909213B00372B15 /* Library.png in Resources */,
+				B26D997C190B53E800C19DF6 /* IDMPBLocalizations.bundle in Resources */,
+				B2683DAD191C2651004EAF12 /* FeatherSplash2.png in Resources */,
+				B292E1571902475900372B15 /* picture.png in Resources */,
+				B292E195190922D400372B15 /* Library-Books-48.png in Resources */,
+				B26D994E190B3C9800C19DF6 /* placeholder.png in Resources */,
+				B292E1721903A69000372B15 /* test.png in Resources */,
+				B26D997E190B53E800C19DF6 /* IDMPhotoBrowser.bundle in Resources */,
+				B2CD42331919E62200BEFD26 /* lyteSplash.png in Resources */,
+				B292E1201902455900372B15 /* InfoPlist.strings in Resources */,
+				B26D9990190F3B6F00C19DF6 /* Book-Delete-48 (1).png in Resources */,
+				B292E19919092E7C00372B15 /* LyteIcon@2x.png in Resources */,
+				B2D42886191DC8EB00B90AB7 /* splash.png in Resources */,
+				B26D9992190F3B8100C19DF6 /* Book-Delete-48 (2).png in Resources */,
+				B2683DA9191AFD77004EAF12 /* featherIcon@2x.png in Resources */,
+				B292E1911909214500372B15 /* Add.png in Resources */,
+				B292E1931909228E00372B15 /* Library-Books-32.png in Resources */,
+				B26D998C190F363800C19DF6 /* Book-Delete-32.png in Resources */,
+				B2683DAC191C2651004EAF12 /* FeatherSplash@2x.png in Resources */,
+				B292E1561902475900372B15 /* check.png in Resources */,
+				B26D998E190F3B5000C19DF6 /* Book-Delete-128.png in Resources */,
+				B2683DA7191AF13A004EAF12 /* Feather -256 (2) copy.png in Resources */,
+				B292E1581902475900372B15 /* camera.png in Resources */,
+				B26D994C190B338A00C19DF6 /* loading.gif in Resources */,
+				B292E1971909230800372B15 /* Add-New-32.png in Resources */,
+				B292E1291902455A00372B15 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B292E1371902455C00372B15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E1461902455D00372B15 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B292E10C1902455700372B15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E1261902455900372B15 /* AppDelegate.m in Sources */,
+				B26D9981190B53E800C19DF6 /* IDMTapDetectingView.m in Sources */,
+				B26D997D190B53E800C19DF6 /* IDMPhoto.m in Sources */,
+				B26D9980190B53E800C19DF6 /* IDMTapDetectingImageView.m in Sources */,
+				B26D997F190B53E800C19DF6 /* IDMPhotoBrowser.m in Sources */,
+				B292E1751903A6B600372B15 /* LibraryCollectionViewController.m in Sources */,
+				B292E18A1905DE6C00372B15 /* AddPageViewController.m in Sources */,
+				B292E18D1907109400372B15 /* PageCollectionViewController.m in Sources */,
+				B26D997B190B53E800C19DF6 /* IDMCaptionView.m in Sources */,
+				B292E1691902499000372B15 /* MainViewController.m in Sources */,
+				B2C1D691191982ED000FBC77 /* Book.m in Sources */,
+				B2C1D694191982F4000FBC77 /* Page.m in Sources */,
+				B26D9982190B53E800C19DF6 /* IDMZoomingScrollView.m in Sources */,
+				B292E15D190248BB00372B15 /* LyteData.m in Sources */,
+				B292E1221902455900372B15 /* main.m in Sources */,
+				B292E1681902499000372B15 /* NewBookViewController.m in Sources */,
+				B292E12C1902455A00372B15 /* Lyte.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B292E1351902455C00372B15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B292E1481902455D00372B15 /* LyteTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B292E1401902455C00372B15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B292E10F1902455700372B15 /* Feather */;
+			targetProxy = B292E13F1902455C00372B15 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B292E11E1902455900372B15 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B292E11F1902455900372B15 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B292E1271902455A00372B15 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B292E1281902455A00372B15 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B292E1441902455D00372B15 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B292E1451902455D00372B15 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B292E1491902455E00372B15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		B292E14A1902455E00372B15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B292E14C1902455E00372B15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Feather-Prefix.pch";
+				INFOPLIST_FILE = "Lyte/Feather-Info.plist";
+				PRODUCT_NAME = Feather;
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B292E14D1902455E00372B15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Feather-Prefix.pch";
+				INFOPLIST_FILE = "Lyte/Feather-Info.plist";
+				PRODUCT_NAME = Feather;
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		B292E14F1902455E00372B15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lyte.app/Lyte";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Lyte-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "LyteTests/FeatherTests-Info.plist";
+				PRODUCT_NAME = FeatherTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		B292E1501902455E00372B15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lyte.app/Lyte";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Lyte-Prefix.pch";
+				INFOPLIST_FILE = "LyteTests/FeatherTests-Info.plist";
+				PRODUCT_NAME = FeatherTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		B2D42887191DD50700B90AB7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Mary Yeh (R9FZ4DBS7P)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		B2D42888191DD50700B90AB7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Feather-Prefix.pch";
+				INFOPLIST_FILE = "Lyte/Feather-Info.plist";
+				PRODUCT_NAME = Feather;
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		B2D42889191DD50700B90AB7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lyte.app/Lyte";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lyte/Lyte-Prefix.pch";
+				INFOPLIST_FILE = "LyteTests/FeatherTests-Info.plist";
+				PRODUCT_NAME = FeatherTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B292E10B1902455700372B15 /* Build configuration list for PBXProject "Feather" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B292E1491902455E00372B15 /* Debug */,
+				B292E14A1902455E00372B15 /* Release */,
+				B2D42887191DD50700B90AB7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B292E14B1902455E00372B15 /* Build configuration list for PBXNativeTarget "Feather" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B292E14C1902455E00372B15 /* Debug */,
+				B292E14D1902455E00372B15 /* Release */,
+				B2D42888191DD50700B90AB7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B292E14E1902455E00372B15 /* Build configuration list for PBXNativeTarget "FeatherTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B292E14F1902455E00372B15 /* Debug */,
+				B292E1501902455E00372B15 /* Release */,
+				B2D42889191DD50700B90AB7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		B292E12A1902455A00372B15 /* Lyte.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				B292E12B1902455A00372B15 /* Lyte.xcdatamodel */,
+			);
+			currentVersion = B292E12B1902455A00372B15 /* Lyte.xcdatamodel */;
+			path = Lyte.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = B292E1081902455600372B15 /* Project object */;
+}
